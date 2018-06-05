@@ -38,6 +38,7 @@ const renderFullPage = html => {
 			</script>
 		</head>
 		<body>
+			<section id="todoapp2" class="todoapp2"></section>
 			<section id="todoapp" class="todoapp">${html}</section>
 			<script src="/static/bundle.js"></script>
 			<footer class="info">
